@@ -37,7 +37,3 @@ else:
         ti = random.randint(10,50)
         print(ti)
         time.sleep(ti)
-
-
-
-
