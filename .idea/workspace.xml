@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="427f9d0f-83c1-484f-832a-83fc5cdeac36" name="Default Changelist" comment="1、重构APP项目路径" />
+    <list default="true" id="427f9d0f-83c1-484f-832a-83fc5cdeac36" name="Default Changelist" comment="1、重构部分项目内容">
+      <change beforePath="$PROJECT_DIR$/.idea/My_Proj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/My_Proj.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +63,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Python/My_Proj"
+    "last_opened_file_path": "D:/Python/My_Proj",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -130,7 +138,28 @@
       <option name="project" value="LOCAL" />
       <updated>1679561181575</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="1、删除打包项目目录">
+      <created>1679561262338</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679561262338</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1、重构部分项目内容">
+      <created>1679561391623</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679561391623</updated>
+    </task>
+    <task id="LOCAL-00006" summary="1、重构部分项目内容">
+      <created>1679561420650</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679561420650</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -180,7 +209,9 @@
     <MESSAGE value="20210706" />
     <MESSAGE value="1、重构CPU项目路径" />
     <MESSAGE value="1、重构APP项目路径" />
-    <option name="LAST_COMMIT_MESSAGE" value="1、重构APP项目路径" />
+    <MESSAGE value="1、删除打包项目目录" />
+    <MESSAGE value="1、重构部分项目内容" />
+    <option name="LAST_COMMIT_MESSAGE" value="1、重构部分项目内容" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/UnionLotto/ChromeWbe.py">
