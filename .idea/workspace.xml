@@ -19,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="242" />
     <option name="y" value="-30" />
@@ -56,6 +59,11 @@
     "last_opened_file_path": "D:/Python/My_Proj"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\My_Proj" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="RequestPort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="My_Proj" />
