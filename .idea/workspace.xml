@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="427f9d0f-83c1-484f-832a-83fc5cdeac36" name="Default Changelist" comment="" />
+    <list default="true" id="427f9d0f-83c1-484f-832a-83fc5cdeac36" name="Default Changelist" comment="1、重构APP项目路径" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +9,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -25,6 +26,7 @@
     <option name="height" value="1498" />
   </component>
   <component name="ProjectId" id="2NPLZV5bREpIo9Ygan6ULt7tIqe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -48,11 +50,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/Python/My_Proj"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="RequestPort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="My_Proj" />
@@ -105,7 +108,21 @@
       <option name="project" value="LOCAL" />
       <updated>1625537707475</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1、重构CPU项目路径">
+      <created>1679561006428</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1679561006428</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1、重构APP项目路径">
+      <created>1679561181575</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679561181575</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -140,9 +157,22 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20210706" />
-    <option name="LAST_COMMIT_MESSAGE" value="20210706" />
+    <MESSAGE value="1、重构CPU项目路径" />
+    <MESSAGE value="1、重构APP项目路径" />
+    <option name="LAST_COMMIT_MESSAGE" value="1、重构APP项目路径" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/UnionLotto/ChromeWbe.py">
