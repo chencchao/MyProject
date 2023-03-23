@@ -4,17 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427f9d0f-83c1-484f-832a-83fc5cdeac36" name="Default Changelist" comment="1、重构部分项目内容">
-      <change beforePath="$PROJECT_DIR$/.idea/My_Proj.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/My_Proj.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="427f9d0f-83c1-484f-832a-83fc5cdeac36" name="Default Changelist" comment="1、新建yoga分支">
+      <change afterPath="$PROJECT_DIR$/CPU/dome_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CPU/dome_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CPU/dome_04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ai-Link/ProductionTest/AiLink_ComputerStatus/Computer_Basic_Information.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ai-Link/ProductionTest/AiLink_ComputerStatus/S.ico" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dome/dome_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dome/dome_02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
@@ -36,7 +52,9 @@
     <option name="height" value="1498" />
   </component>
   <component name="ProjectId" id="2NPLZV5bREpIo9Ygan6ULt7tIqe" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -64,7 +82,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "D:/Python/My_Proj",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "fileTemplates"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -72,7 +90,7 @@
       <recent name="D:\Python\My_Proj" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.dome_Process">
     <configuration name="RequestPort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="My_Proj" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,8 +113,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="dome_Process" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="My_Proj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Dome" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dome/dome_Process.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.dome_Process" />
         <item itemvalue="Python.RequestPort" />
       </list>
     </recent_temporary>
@@ -159,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679561420650</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1、新建yoga分支">
+      <created>1679562145146</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679562145146</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -211,7 +258,8 @@
     <MESSAGE value="1、重构APP项目路径" />
     <MESSAGE value="1、删除打包项目目录" />
     <MESSAGE value="1、重构部分项目内容" />
-    <option name="LAST_COMMIT_MESSAGE" value="1、重构部分项目内容" />
+    <MESSAGE value="1、新建yoga分支" />
+    <option name="LAST_COMMIT_MESSAGE" value="1、新建yoga分支" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/UnionLotto/ChromeWbe.py">
