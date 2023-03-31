@@ -41,3 +41,7 @@ class computer_Basic_information:
 
 if __name__ == '__main__':
     pass
+    # a=computer_Basic_information()
+    # print(a.get_computer_CSName_Caption_OSArchitecture())
+    # print(a.get_net_mac())
+    # print(a.get_disk_Caption())

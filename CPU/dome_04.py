@@ -105,3 +105,6 @@ class computer_status:
 
 if __name__ == '__main__':
     pass
+    # a=computer_status()
+    # print(a.Allcpu())
+    # print(a.Memory())
